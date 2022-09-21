@@ -20,7 +20,7 @@ pycryptodome==3.6.6
 pylint==2.6.0
 Pyrebase==3.0.27
 python-dotenv==0.15.0
-python-jwt==2.0.1
+python-jwt==3.3.4
 python-telegram-bot==13.1
 pytz==2020.4
 requests==2.20.0
